@@ -10,7 +10,7 @@
 
   <div>
     <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react" alt="react" />
-    <img src="https://img.shields.io/badge/Three-black?style=flat&logo=three.js" alt="threejs" />
+    <img src="https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js" alt="threejs" />
   </div>
 </div>
 
