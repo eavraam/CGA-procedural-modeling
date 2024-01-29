@@ -11,8 +11,6 @@
   <div>
     <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react" alt="react" />
     <img src="https://img.shields.io/badge/Three-black?style=flat&logo=three.js" alt="threejs" />
-    <img src="https://img.shields.io/badge/QtCreator%205-green?style=flat" alt="qtcreator5" />
-    <img src="https://img.shields.io/badge/Ubuntu-orange?style=flat" alt="ubuntu" />
   </div>
 </div>
 
@@ -81,6 +79,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 Each operation is applied to the right-adjacent mesh in the syntax. After declaring the desired syntax in the input text area, you can press the `TRY IT OUT` button to generate the model. You could also download the generated model in a `.ply` format by clicking on the `EXPORT MODEL` button.
 
 ![](repo_images/ui_input.png) 
+
+![](repo_images/ui_input_focus.png)
 
 **Examples**
 
